@@ -1,8 +1,7 @@
 # Health Management System
 # 3 clients - Harry, Rohan and karan
 print("Health Management System")
-# list=["harry","rohan","karan"]
-# list=["harry","rohan","karan"]
+
 client=input("Enter your name:\n")
 if client=="harry":
     print("*Food\n*Exercise:" )
