@@ -26,7 +26,7 @@ adventure=['Into Thin Air','The Lost City of Z','Wild','The River of Doubt','The
 books=book
 biopics=biopic
 adventures=adventure
-print(f"Hey, We have 3 section in our library\n1. biopics\n2. Adventures\n3. Books")
+print(f"Hey, We have 3 section in our library\n1. biopic\n2. Adventures\n3. Books")
 input1=input("Which section would you like to choose:- ")
 if input1=="book":
     l1.showinfo1()
